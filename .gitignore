@@ -1,0 +1,44 @@
+# 1. Visual Studio 내부 캐시 및 사용자 설정
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 2. 빌드 출력 디렉토리 (실행 파일 및 중간 파일 폴더)
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+[Bb]in/
+[Oo]bj/
+
+# 3. 컴파일 및 링커 결과물
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# 4. 프리컴파일드 헤더 및 인텔리센스 DB
+*.ipch
+*.pch
+*.aps
+*.opendb
+*.db
+*.db-wal
+*.db-shm
+
+# 5. OS 자동 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
