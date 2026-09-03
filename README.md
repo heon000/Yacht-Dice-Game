@@ -63,7 +63,7 @@ C언어의 배열, 조건문, 반복문, 함수 분리 구조를 활용해 구�
 
 ### 시스템 아키텍처
 
-<img width="580" height="297" alt="image" src="https://github.com/user-attachments/assets/9075cbd8-1e23-4ef2-bed6-65a60f81b694" />
+<img width="1754" height="897" alt="image" src="https://github.com/user-attachments/assets/4365f8a5-fcf6-4299-84ae-ee1c82e8e1f5" />
 
 ### 핵심 포인트
 
